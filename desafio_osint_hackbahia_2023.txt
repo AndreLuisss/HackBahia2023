@@ -1,0 +1,47 @@
+1. Postagem em alguma rede social de algum palestrante ou fake [Cleriston havia mencionado isso]
+2. O link da postagem sugere que alguma dork deve ser utilizada para encontrar a senha correta em um site de past [algo assim]
+3. Encontrado o site e a postagem, essa conterá uma senha em base64 com duplo URL Encode [dica do Maycon]
+4. Informar que a senha deverá ser inserida no QRCode disponível no prédio do evento [o Cleriston pode definir um local, já que conhece o ambiente]
+5. Após escanear o QRCode, e inserir a senha [terá apenas essa opção e mais nada, para não estragar a diversão kkkk] pode ser realizado o download de uma imagem.
+6. Essa imagem conterá um código que pode ser extraído via ExfiTool online em um dos parâmetros da foto [vamos testar postar essa foto de alguma forma que após o download, não sejam suprimidas essas infos]
+7. Com o código em mãos, informar a pessoa X e o primeiro a realizar essa ação, vence.
+
+##############################
+https://www.linkedin.com/in/mike-paul-a8485a282/
+
+Sites de postagens anônimas são ótimas fontes de informações.
+
+A utilização de Google Dorks pode ajudar a filtrar melhor suas buscas e encontrar informações relevantes.
+
+Exemplo de dorks:
+
+site:[siteDePaste.com] intext:"H4ckB4hi4_2023"
+
+#hackbahia #osint
+
+##############################
+
+HB{OSINT_Ch4ll3ng3_H4ckB4hi4_2023}
+URL_encode 1x -> %48%42%7b%4f%53%49%4e%54%5f%43%68%34%6c%6c%33%6e%67%33%5f%48%34%63%6b%42%34%68%69%34%5f%32%30%32%33%7d
+URL_encode 2x -> %25%34%38%25%34%32%25%37%62%25%34%66%25%35%33%25%34%39%25%34%65%25%35%34%25%35%66%25%34%33%25%36%38%25%33%34%25%36%63%25%36%63%25%33%33%25%36%65%25%36%37%25%33%33%25%35%66%25%34%38%25%33%34%25%36%33%25%36%62%25%34%32%25%33%34%25%36%38%25%36%39%25%33%34%25%35%66%25%33%32%25%33%30%25%33%32%25%33%33%25%37%64
+Base64 -> JTI1JTM0JTM4JTI1JTM0JTMyJTI1JTM3JTYyJTI1JTM0JTY2JTI1JTM1JTMzJTI1JTM0JTM5JTI1JTM0JTY1JTI1JTM1JTM0JTI1JTM1JTY2JTI1JTM0JTMzJTI1JTM2JTM4JTI1JTMzJTM0JTI1JTM2JTYzJTI1JTM2JTYzJTI1JTMzJTMzJTI1JTM2JTY1JTI1JTM2JTM3JTI1JTMzJTMzJTI1JTM1JTY2JTI1JTM0JTM4JTI1JTMzJTM0JTI1JTM2JTMzJTI1JTM2JTYyJTI1JTM0JTMyJTI1JTMzJTM0JTI1JTM2JTM4JTI1JTM2JTM5JTI1JTMzJTM0JTI1JTM1JTY2JTI1JTMzJTMyJTI1JTMzJTMwJTI1JTMzJTMyJTI1JTMzJTMzJTI1JTM3JTY0
+
+##############################
+
+Site -> controlc.com
+
+Postagem:
+Paste Title: H4ckB4hi4_2023
+Pate:
+Congrats você chegou até aqui.
+OSINT é muito mais que isso, porém, parte do processo é a busca incansável em diversas fontes até alcançar o objetivo desejado \o/
+
+Password: JTI1JTM0JTM4JTI1JTM0JTMyJTI1JTM3JTYyJTI1JTM0JTY2JTI1JTM1JTMzJTI1JTM0JTM5JTI1JTM0JTY1JTI1JTM1JTM0JTI1JTM1JTY2JTI1JTM0JTMzJTI1JTM2JTM4JTI1JTMzJTM0JTI1JTM2JTYzJTI1JTM2JTYzJTI1JTMzJTMzJTI1JTM2JTY1JTI1JTM2JTM3JTI1JTMzJTMzJTI1JTM1JTY2JTI1JTM0JTM4JTI1JTMzJTM0JTI1JTM2JTMzJTI1JTM2JTYyJTI1JTM0JTMyJTI1JTMzJTM0JTI1JTM2JTM4JTI1JTM2JTM5JTI1JTMzJTM0JTI1JTM1JTY2JTI1JTMzJTMyJTI1JTMzJTMwJTI1JTMzJTMyJTI1JTMzJTMzJTI1JTM3JTY0
+
+PS: encontro o QRCode no prédio do evento [INFORMAR O LOCAL] e insira sua senha para resgatar seu prêmio.
+
+##############################
+
+QRCode para o site onde haverá a imagem para download -> 
+Imagem com a TAG "Author" contendo a flag -> https://drive.google.com/file/d/1Yc5zn6ie1C4FJaEMKgQyJMly5UNxIeii/view?usp=drive_link
+
